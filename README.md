@@ -1,1 +1,1 @@
-Mobile app build with react native, university project.
+Mobile app build with react native, unfinished university project.
